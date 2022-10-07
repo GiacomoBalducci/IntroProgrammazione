@@ -1,4 +1,4 @@
 run = "/bin/bash"
 
-[bin]
+[nix]
 channel = "stable-21_11"
