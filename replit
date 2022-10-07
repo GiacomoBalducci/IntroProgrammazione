@@ -1,0 +1,4 @@
+run = "/bin/bash"
+
+[bin]
+channel = "stable-21_11"
